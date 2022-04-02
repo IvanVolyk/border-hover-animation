@@ -1,2 +1,2 @@
-# start-theme
-Basic code for html coder
+# Border hover animation
+Simple border hover animation
